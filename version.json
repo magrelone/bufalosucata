@@ -2,6 +2,5 @@
   "version": "1.1.0",
   "release_date": "2023-11-20",
   "download_url": "https://github.com/seu_usuario/bufalo_sucatas/releases/download/v1.1.0/BufaloSucatas-v1.1.0.exe",
-  "checksum": "a1b2c3d4...",  # (Opcional) SHA256 do arquivo para verificação
   "changelog": "Novos recursos:\n- Atualização automática\n- Correção de bugs"
 }
