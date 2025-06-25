@@ -1,6 +1,6 @@
 {
-  "version": "1.5.0",
-  "release_date": "2025-06-24",
-  "download_url": "https://github.com/magrelone/bufalosucata/releases/download/BufaloSucatas-v1.5.0/BufaloSucatas-v1.5.0.exe",
-  "changelog": "Novos recursos:\n- Se Atualizar é Gay\n- Adicionado - Atalhos Sistema"
+  "version": "1.6.0",
+  "release_date": "2025-06-25",
+  "download_url": "https://github.com/magrelone/bufalosucata/releases/download/BufaloSucatas-v1.6.0/BufaloSucatas-v1.6.0.exe",
+  "changelog": "Novos recursos:\n- + Atalhos em Materiais Personalizaveis \n- Fix: Corrigido Filtros"
 }
